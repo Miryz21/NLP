@@ -9,7 +9,7 @@
 Отчёт по 9 пунктам задания. Код - пакет `lab1/source`:
 `data.py` (п.1–2) · `clean.py` (п.3–4) · `normalize.py` (п.5) ·
 `levenshtein.py` (п.6) · `lm.py` (п.7–9) · `main.py` (оркестратор).
-Интерактивная версия: [`lab1/lab1.ipynb`](lab1/lab1.ipynb).
+Интерактивная версия: [`lab1.ipynb`](lab1.ipynb).
 
 ```bash
 source /home/miryz/projects/nlp/.venv/bin/activate
@@ -47,12 +47,12 @@ uv run python -m lab1.source.main   # запуск из корня проект�
 - Средняя длина: **17.49 слов / 86.22 символов**.
 - Распределение правостороннее: мода ≈ 10–18 слов, хвост до 50+.
 
-![длины](lab1/output/lengths.png)
+![длины](output/lengths.png)
 
 - Топ стоп-слов: `the, a, of, to, in, this, is, that` - корпус = обычная
   английская проза, подходит для классической n-граммной модели.
 
-![стоп-слова](lab1/output/stopwords.png)
+![стоп-слова](output/stopwords.png)
 
 ## Пункт 3. Доменные шумы (аудит regex'ом по train)
 
@@ -184,7 +184,7 @@ $$
 
 Старт `<s> <s>`, шаг - выбор из $P(\cdot \mid w_1 w_2)$; при пустом контексте
 backoff на bigram → unigram. Стоп: `</s>` или max_len=30 (seed=42).
-Артефакт: [`lab1/output/generated_texts.txt`](lab1/output/generated_texts.txt).
+Артефакт: [`output/generated_texts.txt`](output/generated_texts.txt).
 
 Реальные сэмплы (фрагменты артефакта):
 
