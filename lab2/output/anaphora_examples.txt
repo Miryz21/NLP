@@ -1,0 +1,39 @@
+было:  Whether you 're Coleridge or Newton - John , it 's a place of great luxury
+стало:  Whether you 're Coleridge or Newton - John , place 's a place of great luxury
+    it -> place (NOUN/NN, score=103)
+
+
+было:  Figuratively speaking , a deceived person is led " down " this " path " , or perhaps " up " it Daytona International Speedway
+стало:  Figuratively speaking , a deceived person is led " down " this " path " , or perhaps " up " path Daytona International Speedway
+    it -> path (NOUN/NN, score=8)
+
+
+было:  They were the 2 main stars of the sequel Hong Kong knew as " Special Unit in Black Glasses Part 2 "
+стало:  stars were the 2 main stars of the sequel Hong Kong knew as " Special Unit in Black Glasses Part 2 "
+    They -> stars (NOUN/NNS, score=105)
+
+
+было:  The " mute " type of this graceful waterfowl is n't really silent : it hisses , grunts & even makes snoring sounds 1999 's " To Hell and Back "
+стало:  The " mute " type of this graceful waterfowl is n't really silent : waterfowl hisses , grunts & even makes snoring sounds 1999 's " To Hell and Back "
+    it -> waterfowl (NOUN/NN, score=6)
+
+
+было:  He 's the father of Madonna 's daughter Lourdes Seen here , he shot a man in Texas , November 24 , 1963
+стало:  man 's the father of Madonna 's daughter Lourdes Seen here , man shot a man in Texas , November 24 , 1963
+    He -> man (NOUN/NN, score=115)
+    he -> man (NOUN/NN, score=103)
+
+
+было:  This pack animal 's name comes from the Latin for " small horse " -- can you dig it ?
+стало:  This pack animal 's name comes from the Latin for " small horse " -- can you dig horse ?
+    it -> horse (NOUN/NN, score=6)
+
+
+было:  From the Latin for " warm " , it may be a feminine symbol linked with the womb of the mother goddess , or a big iron pot ( Alex delivers the clue from aboard a train on the Western Maryland Scenic Railroad . )
+стало:  From the Latin for " warm " , symbol may be a feminine symbol linked with the womb of the mother goddess , or a big iron pot ( Alex delivers the clue from aboard a train on the Western Maryland Scenic Railroad . )
+    it -> symbol (NOUN/NN, score=105)
+
+
+было:  It can be a reanimated voodoo automaton , or a drink that might turn you into one
+стало:  voodoo can be a reanimated voodoo automaton , or a drink that might turn you into one
+    It -> voodoo (NOUN/NN, score=105)
